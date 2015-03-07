@@ -7,4 +7,5 @@
   //Aden edit
   
   printf "jaga lilin";
+  printf "nemenin jaga lilin";
 ?>
