@@ -1,13 +1,10 @@
 <?php
   echo "Commat-commit pertama";
   //Haikal edit
-  echo "harry commit kedua";
+  echo "<br />harry commit kedua";
   //Harry edit
-  echo "aden commit ketiga";
+  echo "<br />aden commit ketiga";
   //Aden edit
-  echo "adi commit keempat"
+  echo '<br />adi commit keempat';
   //Adi edit
-  
-  printf "jaga lilin";
-  lalala yeyeye
 ?>
